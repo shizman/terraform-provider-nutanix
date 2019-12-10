@@ -29,8 +29,8 @@
 ###   give the broadest capabilities across the board
 /*  provider "nutanix" {
   username  = "admin"
-  password  = "Nutanix/1234"
-  endpoint  = "10.5.80.255"
+  password  = "Ch@nd792!"
+  endpoint  = "10.0.1.40"
   insecure  = true
   port      = 9440
 }  */
